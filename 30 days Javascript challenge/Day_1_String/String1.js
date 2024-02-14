@@ -33,4 +33,5 @@ console.log(str.at(2));
 console.log(names.match("a"));
 console.log(names.matchAll("a"));
 console.log(`${str} ${names}`);
-console.log();
+// {let x=10
+// console.log(x+++x);}
