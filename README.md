@@ -16,16 +16,16 @@ A-Z of javascript
 </pre>
 
 # <a href="functions.js">2. Functions</a>
- `functions basically 2types-----`
- `{1. Named function}`
+ functions basically 2types-----
+ {1. Named function}
  ===========================
  `A function which have a name.`
  function wish(){
   console.log("Happy birthday");
  }
- `{1. Anonymous function}`
+ {1. Anonymous function}
  ===========================
- `A function basically have no name but stored in a variable.`
+ A function basically have no name but stored in a variable.
  let wish=function(){
   console.log("Happy birthday");
  }
