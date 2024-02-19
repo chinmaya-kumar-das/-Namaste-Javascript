@@ -38,13 +38,11 @@ A-Z of javascript
 we can declair it various way like
 1. using `Array Literal`  
 like let name=["A","B","C","D"]
-
 2. using ` New Array()`   Keyword 
 like let address=new Array();
 address[0]="Ghaziabad";
 address[0]="Delhi";
 address[0]="INDIA";
-
 3. using Array constructor
 like let number=new Array(1,2,3,4,5,6,7,8,9,10);
 </pre>`
