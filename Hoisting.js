@@ -1,3 +1,9 @@
-console.log(name);
+// console.log(name);
 
-var name="bcjdbbh"
+// var name="bcjdbbh"
+
+let n=5
+
+{console.log(n);
+ n=8}
+
