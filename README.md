@@ -34,14 +34,20 @@ A-Z of javascript
 
 # <a href="Array.js">4. Array</a>
 `Array is linear data structure which store/hold elements of various datatypes and indexed starting from zero.`
-<pre>
+`<pre>
 we can declair it various way like
-1. using `Array Literal`  like let name=["A","B","C","D"]
-2. using ` New Array()`   Keyword like let address=new Array();
+1. using `Array Literal`  
+like let name=["A","B","C","D"]
+
+2. using ` New Array()`   Keyword 
+like let address=new Array();
 address[0]="Ghaziabad";
 address[0]="Delhi";
 address[0]="INDIA";
-</pre>>
+
+3. using Array constructor
+like let number=new Array(1,2,3,4,5,6,7,8,9,10);
+</pre>`
 # <a href="Object.js">5. Object</a>
 
 # <a href="Loops.js">6. Loop's</a>
