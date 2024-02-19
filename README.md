@@ -17,17 +17,17 @@ A-Z of javascript
 
 # <a href="functions.js">2. Functions</a>
  functions basically 2types-----
- 1. Named function
- ===========================
+ 1. Named function<br>
+ ===========================<br>
  `A function which have a name.`
  function wish(){
   console.log("Happy birthday");
  }
- 2. Anonymous function
- ===========================
+ 2. Anonymous function <br>
+ ===========================<br>
  A function basically have no name but stored in a variable.
- let wish=function(){
-  console.log("Happy birthday");
+ <br>let wish=function(){<br>
+  console.log("Happy birthday");<br>
  }
 # <a href="String.js">3. String </a>
 # <a href="Array.js">4. Array</a>
