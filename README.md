@@ -20,26 +20,26 @@ A-Z of javascript
  1. Named function<br>
  ===========================<br>
  `A function which have a name.`
- function wish(){
+ function wish( ){
   console.log("Happy birthday");
  }
  2. Anonymous function <br>
  ===========================<br>
- A function basically have no name but stored in a variable.
- <br>let wish=function(){<br>
+` A function basically have no name but stored in a variable.`
+ <br>let wish=function( ){<br>
   console.log("Happy birthday");<br>
  }
 # <a href="String.js">3. String </a>
 # <a href="Array.js">4. Array</a>
 # <a href="Object.js">5. Object</a>
 # <a href="functions.js">6. Loop's</a>
-<u>For...in loop</u>
-The for...in loop in Javascript is used to loop through the properties of an object. 
+<u>For...in loop</u><br>
+The for...in loop in Javascript is used to loop through the properties of an object. <br>
 for (key in object) {
   // code block to be executed
 }
-<u>For...of loop</u>
-We can use the javascript for-of loop to loop through the values of an iterable object in Javascript. Objects that we can iterate over with for..of loop are called iterable. To be more specific, iterables must implement the Symbol.iterator method to qualify as an iterable.
+<u>For...of loop</u><br>
+We can use the javascript for-of loop to loop through the values of an iterable object in Javascript. Objects that we can iterate over with for..of loop are called iterable. To be more specific, iterables must implement the Symbol.iterator method to qualify as an iterable.<br>
 for (variable of iterable) {
   // code block to be executed
 }
