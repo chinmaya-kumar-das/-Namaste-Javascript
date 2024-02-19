@@ -1,4 +1,4 @@
-# -Namaste-Javascript
+# -Namaste-Javascript 
 
 A-Z of javascript
 
@@ -20,8 +20,8 @@ A-Z of javascript
  1. Named function<br>
  ===========================<br>
  `A function which have a name.`<br>
- function wish( ){
-  console.log("Happy birthday");
+ function wish( ){<br>
+  console.log("Happy birthday");<br>
  }
  2. Anonymous function <br>
  ===========================<br>
@@ -29,9 +29,21 @@ A-Z of javascript
  <br>let wish=function( ){<br>
   console.log("Happy birthday");<br>
  }
+
 # <a href="String.js">3. String </a>
+
 # <a href="Array.js">4. Array</a>
+`Array is linear data structure which store/hold elements of various datatypes and indexed starting from zero.`
+<pre>
+we can declair it various way like
+1. using `Array Literal`  like let name=["A","B","C","D"]
+2. using ` New Array()`   Keyword like let address=new Array();
+address[0]="Ghaziabad";
+address[0]="Delhi";
+address[0]="INDIA";
+</pre>>
 # <a href="Object.js">5. Object</a>
+
 # <a href="Loops.js">6. Loop's</a>
 1.<u>For...in loop</u><br>
 ============<br>
