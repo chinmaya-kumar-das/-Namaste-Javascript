@@ -33,15 +33,16 @@ A-Z of javascript
 # <a href="Array.js">4. Array</a>
 # <a href="Object.js">5. Object</a>
 # <a href="functions.js">6. Loop's</a>
-<u>For...in loop</u><br>
+1.<u>For...in loop</u><br>
+============<br>
 The for...in loop in Javascript is used to loop through the properties of an object. <br>
 for (key in object) {<br>
   // code block to be executed<br>
 }<br>
 2.<u>For...of loop</u><br>
-===================<br>
+============<br>
 We can use the javascript for-of loop to loop through the values of an iterable object in Javascript.<br> Objects that we can iterate over with for..of loop are called iterable. <br>To be more specific, iterables must implement the Symbol.iterator method to qualify as an iterable.<br>
-<br>for (variable of iterable) {<br>
+ (variable of iterable) {<br>
   // code block to be executed<br>
 }
 
