@@ -19,7 +19,7 @@ A-Z of javascript
  functions basically 2types-----
  1. Named function<br>
  ===========================<br>
- `A function which have a name.`
+ `A function which have a name.`<br>
  function wish( ){
   console.log("Happy birthday");
  }
@@ -39,9 +39,10 @@ for (key in object) {
   // code block to be executed
 }
 <u>For...of loop</u><br>
-We can use the javascript for-of loop to loop through the values of an iterable object in Javascript. Objects that we can iterate over with for..of loop are called iterable. To be more specific, iterables must implement the Symbol.iterator method to qualify as an iterable.<br>
-for (variable of iterable) {
-  // code block to be executed
+===================<br>
+We can use the javascript for-of loop to loop through the values of an iterable object in Javascript.<br> Objects that we can iterate over with for..of loop are called iterable. <br>To be more specific, iterables must implement the Symbol.iterator method to qualify as an iterable.<br>
+<br>for (variable of iterable) {<br>
+  // code block to be executed<br>
 }
 
 ``
