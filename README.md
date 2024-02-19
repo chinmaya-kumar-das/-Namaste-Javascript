@@ -32,7 +32,7 @@ A-Z of javascript
 # <a href="String.js">3. String </a>
 # <a href="Array.js">4. Array</a>
 # <a href="Object.js">5. Object</a>
-# <a href="functions.js">6. Loop's</a>
+# <a href="Loops.js">6. Loop's</a>
 1.<u>For...in loop</u><br>
 ============<br>
 The for...in loop in Javascript is used to loop through the properties of an object. <br>
