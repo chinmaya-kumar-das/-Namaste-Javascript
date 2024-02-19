@@ -35,3 +35,25 @@ console.log(names.matchAll("a"));
 console.log(`${str} ${names}`);
 // {let x=10
 // console.log(x+++x);}
+
+
+// let x=" dnnj jnd jdn"
+// console.log(x.split(" "));
+// console.log("sxsx".length);
+// let title=" chinmaya KUmar DasH"
+// let newstr="";
+//     let Wordarr=title.split(" ");
+//     for(let i=0;i<title.length;i++){
+//         for(let j=0;j<Wordarr[j];j++){
+//             if(Wordarr[j].length==2){
+//                 newstr.concat(Wordarr[j].toLowerCase());
+//             }else{
+//                 let capword=(Wordarr[j].toUpperCase()).concat(Wordarr[j].substring(1,Wordarr[j].length)) ;
+//                 newstr.concat(" ",capword);
+//             }
+//         }
+//     }
+//     console.log(newstr);
+let title="Chinmay Kumar Das"
+let c=title.split(" ")
+console.log(c);
