@@ -1,9 +1,3 @@
-// console.log(name);
-
-// var name="bcjdbbh"
-
-let n=5
-
-{console.log(n);
- n=8}
-
+// using test before declaring
+console.log(test);   // undefined
+var test;
