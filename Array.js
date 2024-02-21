@@ -11,7 +11,7 @@ console.log(
   address,
   " full addres is " + address[0] + "," + address[1] + "," + address[2]
 );
- 
+ let a=0;
 console.log(name.join(","));
 console.log(name.join(","));
 console.log(name.join(","));
