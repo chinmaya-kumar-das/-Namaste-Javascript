@@ -23,7 +23,7 @@ for(let x in array){
 
 //for...of loop
 for( let val of array){
-    console.log(val);
+    console.log(val );
 }
 
 // let s= Symbol("cxddvcvwdc")
